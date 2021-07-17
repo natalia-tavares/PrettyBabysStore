@@ -6,3 +6,13 @@ Um sistema de e-commerce para cadastro de email na landing page para recebimento
 - Template do site oficial
 - Landing Page de promoções : Black Friday
 - Dados no localstorage
+
+https://prettybabysstore.netlify.app/ 
+
+
+
+
+
+
+
+Obs: Para o formulario aparecer novamente, limpar o localstorage. 
